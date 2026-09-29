@@ -1,30 +1,156 @@
-# 💫 About Me:
-Recent M.C.A in Computer Science graduate with a strong foundation in web development, software development, and data Scientist. Completed coursework and projects in Data Structures & Algorithms, Object-Oriented Programming, Databases, and Machine Learning. Eager to leverage analytical abilities to develop innovative software solutions and achieve impactful results in a dynamic technology environment.
+# Hi, I'm Rithik Jaiswar 👋
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/rithikjaiswar.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/behance.net/rithikjaiswar) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/p8bC77Kvd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hrithik_21_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/rithik-jaiswar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riithikjaiswar2121@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RithikJaiswar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=RithikJaiswar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RithikJaiswar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RithikJaiswar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RithikJaiswar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Entry-level Data Science & AI/ML practitioner building practical, end-to-end solutions with Python, SQL, Machine Learning, and Generative AI.**
 
 ---
-[![](https://komarev.com/ghpvc/?username=RithikJaiswar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/hrithik_21) 
+## About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- MCA graduate (2025) with a BCA background, focused on turning data into decisions and working prototypes.
+- I work mainly with **Python** and **SQL** for data analysis, machine learning, and business reporting.
+- I enjoy problems involving customer behavior, classification, time-series data, and document-based question answering.
+- Currently deepening my skills in model evaluation, LLM-based applications, and deployment.
+- Career goal: an entry-level role in Data Science, Data Analytics, or Machine Learning / AI where I can build and ship useful data products.
+
+---
+
+## 🔭 Currently Working On
+
+- Machine learning projects with a focus on proper evaluation
+- Retrieval-Augmented Generation (RAG) and LLM-based applications
+- Data analytics projects using SQL and Power BI
+- Strengthening my Python and SQL fundamentals
+- Deploying ML/AI applications with Streamlit
+
+---
+
+## 🧰 Technical Skills
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Python, SQL |
+| **Data Science** | Pandas, NumPy, Scikit-learn |
+| **Machine Learning** | Supervised Learning, Unsupervised Learning, Feature Engineering, Model Evaluation |
+| **Deep Learning** | Neural Networks, LSTM |
+| **Generative AI** | LLMs, RAG, LangChain, Embeddings, Prompt Engineering, Hugging Face |
+| **Data Visualization** | Power BI, Matplotlib, Seaborn |
+| **Databases** | MySQL, SQL Server |
+| **Tools** | Git, GitHub, Jupyter Notebook, VS Code, Streamlit, REST APIs |
+
+---
+
+## 🚀 Featured Projects
+
+### Retail Sales & Customer Churn Analysis
+SQL and Python analysis of retail data to understand revenue drivers and customer retention.
+
+**Tech Stack:** SQL, Python, Pandas, Power BI
+
+**What it demonstrates:**
+- Business analysis with SQL: customer segmentation, revenue analysis, and repeat-purchase behavior
+- Churn analysis and data cleaning/transformation
+- Communicating findings through Power BI dashboards
+
+🔗 [View on GitHub](https://github.com/RithikJaiswar)
+
+---
+
+### Heart Disease Prediction
+A supervised classification model that predicts heart disease risk from patient attributes.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn
+
+**What it demonstrates:**
+- Data preprocessing and feature engineering
+- Logistic Regression for binary classification
+- Model evaluation using accuracy and F1-score
+
+🔗 [View on GitHub](https://github.com/RithikJaiswar)
+
+---
+
+### Stock Trend Prediction
+An LSTM-based time-series model for forecasting stock price trends (educational, not trading advice).
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, LSTM, Matplotlib
+
+**What it demonstrates:**
+- Time-series preprocessing and feature engineering
+- Sequence modeling with LSTM neural networks
+- Model evaluation and result visualization
+
+🔗 [View on GitHub](https://github.com/RithikJaiswar)
+
+---
+
+### Generative AI / LLM Applications
+Applications built with LLMs for document question answering and information retrieval.
+
+**Tech Stack:** Python, LangChain, Hugging Face, Embeddings, RAG, Streamlit
+
+**What it demonstrates:**
+- Retrieval-Augmented Generation over documents
+- Prompt engineering and LLM tool use
+- Wrapping AI functionality in a usable Streamlit interface
+
+🔗 [View on GitHub](https://github.com/RithikJaiswar)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RithikJaiswar&show_icons=true&hide_border=true&count_private=true" />
+  <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RithikJaiswar&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=RithikJaiswar&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img alt="Contribution Graph" src="https://ghchart.rshah.org/RithikJaiswar" />
+</p>
+
+---
+
+## 🌱 Learning Journey
+
+*These are areas I'm actively learning, not claims of expert-level skill.*
+
+**Data Science**
+- Statistics
+- Machine Learning
+- Feature Engineering
+- Model Evaluation
+
+**AI**
+- Deep Learning
+- LLMs
+- RAG
+- AI Agents
+
+**Engineering**
+- APIs
+- Deployment
+- Git
+- Cloud
+
+---
+
+## 🎯 Career Goal
+
+I'm looking to start my career in **Data Science, Data Analytics, Machine Learning, or AI/ML and Generative AI**, working on problems where data and models drive practical decisions. I'm most interested in roles where I can analyze data, build and evaluate models, and turn them into usable applications while learning from experienced teams.
+
+---
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [Add your LinkedIn URL here]
+- **GitHub:** [github.com/RithikJaiswar](https://github.com/RithikJaiswar)
+- **Email:** [Add your email here]
+- **Portfolio:** [Add if available]
