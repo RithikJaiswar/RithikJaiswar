@@ -44,6 +44,17 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RithikJaiswar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RithikJaiswar/RithikJaiswar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RithikJaiswar/RithikJaiswar/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/RithikJaiswar/RithikJaiswar/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
