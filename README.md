@@ -1,48 +1,174 @@
-<h1 align="center">Hi 👋, I'm Rithik Durgaprasad Jaiswar</h1>
-<h3 align="center">Entry-level Data Science & AI/ML practitioner building practical, end-to-end solutions with Python, SQL, Machine Learning, and Generative AI</h3>
+# Hi, I'm Rithik Jaiswar 👋
+**Entry-level Data Science & AI/ML practitioner building practical, end-to-end solutions with Python, SQL, Machine Learning, and Generative AI.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rithikjaiswar&label=Profile%20views&color=0e75b6&style=flat" alt="rithikjaiswar" /> </p>
+## 💫 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rithikjaiswar" alt="rithikjaiswar" /></a> </p>
+- MCA graduate (2025) with a BCA background, focused on turning data into practical decisions and working prototypes.
+- Python and SQL for data analysis, machine learning, data modeling, and LLM-based applications.
+- Problems involving customer behavior, classification, time-series data, and document-based question answering.
+- Model evaluation, RAG and agent-based applications, and deploying ML/AI projects.
+- An entry-level role in Data Science, Data Analytics, or Machine Learning / AI, where I can build and ship useful data products.
 
-- 🔭 I’m currently working on **Machine Learning & Generative AI projects**
+---
+## 🔭 Currently Working On
 
-- 🌱 I’m currently learning **LLMs, RAG, AI Agents, Deep Learning & MLOps**
+- Machine learning projects with a focus on proper evaluation
+- Retrieval-Augmented Generation (RAG) and LLM-based applications
+- Data analytics projects using SQL and Power BI
+- Strengthening my Python and SQL fundamentals
+- Deploying ML/AI applications with Streamlit
 
-- 👯 I’m looking to collaborate on **Data Science, ML & GenAI projects**
+---
+## 🧰 Technical Skills
 
-- 🤝 I’m looking for help with **Building production-ready AI/ML applications**
+| Area | Technologies |
+|---|---|
+| **Languages** | Python, SQL, JavaScript, C++ |
+| **Data Science** | Pandas, NumPy, SciPy, Scikit-learn |
+| **Machine Learning** | Supervised Learning, Unsupervised Learning, Feature Engineering, Model Evaluation |
+| **Deep Learning** | Neural Networks, LSTM, Keras, TensorFlow, PyTorch |
+| **Generative AI** | LLMs, RAG, LangChain, Embeddings, Prompt Engineering, Hugging Face, Mistral AI, Whisper |
+| **Vector Database** | ChromaDB |
+| **Data Engineering** | ETL, Data Modeling, Star Schema, Medallion Architecture (Bronze / Silver / Gold), Apache Spark, Apache Airflow |
+| **Data Visualization** | Power BI, Matplotlib, Seaborn, Plotly |
+| **Databases** | Microsoft SQL Server, MongoDB |
+| **Web & APIs** | Streamlit, FastAPI, Django, React, Three.js, REST APIs, Tavily API, BeautifulSoup |
+| **Cloud & DevOps** | AWS, Docker, Kubernetes, GitHub Actions |
+| **Tools** | Git, GitHub, Jupyter Notebook, VS Code, Anaconda, Selenium |
 
-- 👨‍💻 All of my projects are available at [https://github.com/RithikJaiswar](https://github.com/RithikJaiswar)
+---
 
-- 📝 I regularly write articles on [Currently not writing articles](Currently not writing articles)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=RithikJaiswar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=RithikJaiswar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RithikJaiswar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 💬 Ask me about **Python, SQL, GenAI, Machine Learning & Data Analytics**
+---
 
-- 📫 How to reach me **rithikjaiswar2121@gmail.com**
+## 🚀 Featured Projects
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rithik-jaiswar/](https://www.linkedin.com/in/rithik-jaiswar/)
+### Multi-Agent AI Research System
+*Individual Project · May 2026 – Present*
 
-- ⚡ Fun fact **I enjoy turning data into practical AI solutions**
+A multi-agent application that automates web research through specialized, task-specific AI agents.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- Built with LangChain's `create_agent()` to coordinate agents that each handle a specific research task.
+- Integrated the **Tavily API** for real-time web search and **BeautifulSoup** for webpage content extraction, so agents retrieve and process live information.
+- Delivered an interactive **Streamlit** interface that generates AI-powered research summaries using the **Mistral API**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/rithikjaiswar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rithikjaiswar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rithik-jaiswar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rithik-jaiswar/" height="30" width="40" /></a>
-<a href="https://medium.com/@rithikjaiswar2121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rithikjaiswar2121" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rithikjaiswar211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rithikjaiswar211" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hrithikz21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hrithikz21" height="30" width="40" /></a>
-</p>
+**Tech Stack:** Python, LangChain, Mistral AI, Tavily API, Streamlit
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+🔗 [GitHub Repo](https://github.com/RithikJaiswar/AI_MultiAgent_RAG_System_project)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rithikjaiswar&show_icons=true&locale=en&layout=compact" alt="rithikjaiswar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rithikjaiswar&show_icons=true&locale=en" alt="rithikjaiswar" /></p>
+### AI Video Intelligence Assistant
+*Individual Project · Jun 2026 – Present*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rithikjaiswar&" alt="rithikjaiswar" /></p>
+An AI assistant that transcribes and summarizes YouTube videos, audio files, and meeting recordings for fast content review.
+
+- Integrated **Whisper** for speech-to-text transcription.
+- Stored transcript embeddings in **ChromaDB**, enabling RAG for context-aware question answering.
+- Built a **Streamlit** interface using LangChain and Mistral AI so users can query video or audio content directly from its transcript.
+
+**Tech Stack:** Python, Streamlit, LangChain, Whisper, Mistral AI, ChromaDB
+
+🔗 [GitHub Repo](https://github.com/RithikJaiswar/AI_Video_Summarizer_GenAI_Project)
+
+---
+
+### RAG-Based PDF Question Answering System
+*Individual Project · Jul 2026 – Present*
+
+A Retrieval-Augmented Generation pipeline for question answering over PDF documents.
+
+- Combined document ingestion, text chunking, **Hugging Face** embedding generation, and **ChromaDB** retrieval.
+- Implemented real-time document indexing so newly uploaded PDFs become queryable immediately.
+- Built a **Streamlit** interface for PDF upload and context-aware LLM responses grounded in the document content.
+
+**Tech Stack:** Python, LangChain, ChromaDB, Hugging Face, Streamlit
+
+🔗 [GitHub Repo](https://github.com/RithikJaiswar/Generative_AI_part-2)
+
+---
+
+### Enterprise Data Warehouse (Medallion Architecture)
+*Individual Project · Sep 2026 – Present*
+
+A 3-layer (Bronze–Silver–Gold) data warehouse in SQL Server that integrates CRM and ERP source data.
+
+- Engineered automated **ETL pipelines** with stored procedures to ingest and integrate CRM and ERP data.
+- Cleaned, transformed, and standardized raw data (deduplication, null handling, key generation) into a reliable, analytics-ready **Silver** layer.
+- Designed a **star schema** with fact and dimension views in the **Gold** layer to support business reporting on sales, customers, and products.
+
+**Tech Stack:** SQL Server, ETL, Data Modeling
+
+🔗 [GitHub Repo](https://github.com/RithikJaiswar/sql-data-warehouse-project)
+
+---
+
+## 📂 Earlier Projects
+
+- **Heart Disease Prediction** — Python, Pandas, NumPy, Scikit-learn: preprocessing, feature engineering, Logistic Regression, evaluated with accuracy and F1-score. [GitHub](https://github.com/RithikJaiswar)
+- **Retail Sales & Customer Churn Analysis** — SQL, Python, Pandas, Power BI: customer segmentation, revenue and repeat-purchase analysis, churn analysis, and dashboards. [GitHub](https://github.com/RithikJaiswar)
+- **Stock Trend Prediction** — Python, Scikit-learn, LSTM, Matplotlib: time-series preprocessing and LSTM modeling (educational, not trading advice). [GitHub](https://github.com/RithikJaiswar)
+
+---
+## 🌱 Learning Journey
+
+*These are areas I'm actively learning, not claims of expert-level skill.*
+
+**Data Science**
+- Statistics
+- Machine Learning
+- Feature Engineering
+- Model Evaluation
+
+**AI**
+- Deep Learning
+- LLMs
+- RAG
+- AI Agents
+
+**Engineering**
+- APIs
+- Deployment
+- Git
+- Cloud
+
+---
+
+## 🎯 Career Goal
+
+I'm looking to start my career in **Data Science, Data Analytics, Machine Learning, or AI/ML and Generative AI**, working on problems where data and models drive practical decisions. I'm most interested in roles where I can analyze data, build and evaluate models, and turn them into usable applications while learning from experienced teams.
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=RithikJaiswar&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=RithikJaiswar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=RithikJaiswar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+## 🤝 Connect With Me
+
+- **Email:** rithikjaiswar2121@gmail.com
+- **GitHub:** [github.com/RithikJaiswar](https://github.com/RithikJaiswar)
+- **LinkedIn:** [linkedin.com/in/rithikjaiswar](https://www.linkedin.com/in/rithikjaiswar)
+- **Portfolio:** Coming Soon...
+
+---
