@@ -180,6 +180,6 @@ I'm looking to start my career in **Data Science, Data Analytics, Machine Learni
 - **Email:** rithikjaiswar2121@gmail.com
 - **GitHub:** [github.com/RithikJaiswar](https://github.com/RithikJaiswar)
 - **LinkedIn:** [linkedin.com/in/rithikjaiswar](https://www.linkedin.com/in/rithikjaiswar)
-- **Portfolio:** Coming Soon...
+- **Portfolio:** [rithikjaiswar.netlify.app](https://rithikjaiswar.netlify.app/)
 
 ---
